@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sko:home|Door43 (sko)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sko|d43-sko repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sko/archive/master.zip|d43-sko.zip]]
+
+**Recent Changes**
+{{changes>ns = sko}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sko|Ethnologue data]]
+
